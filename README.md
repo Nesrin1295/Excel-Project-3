@@ -1,6 +1,7 @@
 # Excel-Project-3
 Excel-Project 3 Interactive Daashboard
 Coffee Store Sales Data Analysis 
+---------------------------------------------
 
 Which month got the highest sales and orders?
 
@@ -14,7 +15,8 @@ Sales by country
 
 Highest selling category?
 
-which Customer have loyalty cards
+which Customer have loyalty cards?
 
+-------------------------------
 Project Insight
-United states is number one in sales, Excelsa is the most bought coffee type , Jan have the highest sales
+United states is number one in sales, Excelsa is the most bought coffee type , Jan have the highest sales.
