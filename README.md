@@ -1,5 +1,5 @@
 # Excel-Project-3
-Excel-Project 3 Interactive Daashboard
+Interactive Daashboard
 Coffee Store Sales Data Analysis 
 ---------------------------------------------
 
